@@ -509,7 +509,7 @@ function move() {
 // requestId = requestAnimationFrame(move);
 
 
-const audio = new Audio('./assets/audio/pewpewhaha.mp3')
+const audio = new Audio('./assets/audio/gameOver.mp3')
 audio.loop = true;
 audio.autoplay=true;
 
